@@ -16,7 +16,7 @@
 
 <div id="navigation" align="center">
 
-[Introduction](#introduction)  |  [Context](#Context)  |  [Files](#Files)  |  [Installation](#Installation)  |  [Launch options](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/launchoptions.md)  |  [In-game settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/ingame.md)  |  [Autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/autoexec.cfg) |  [Nvidia settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/nvidia-settings.md)  |  [Changelog](#CHANGELOG) |   [License](#License)
+[Introduction](#introduction)  |  [Context](#Context)  |  [Files](#Files)  |  [Installation](#Installation)  |  [Launch options](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/launchoptions.md)  |  [In-game settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/ingame.md)  |  [Autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/autoexec.cfg) |  [Nvidia settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/nvidia-settings.md) | [Keybind scancode guide](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/keybind-scancode-guide.md)  |  [Changelog](#CHANGELOG) |   [License](#License)
 
 </div>
 
@@ -76,7 +76,7 @@ This configuration has been created using my own rig, please keep in mind that y
 | [In-game settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/ingame.md) | All the Display and Advanced Video in-game settings for Counter-strike 2 optimized with these supporting config files |
 | [autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/autoexec.cfg) | Configuration file that can be loaded into Counter-strike 2 when starting the game |
 | [Nvidia settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/nvidia-settings.md) | Settings for Nvidia Control Panel, that will help to optimize your game beyond just the game |
-
+| [Keybind scancode guide](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/keybind-scancode-guide.md) | A quick overview guide that shows all the scancodes required for your CS2 keybinds |
 
 <br>
 
@@ -119,9 +119,18 @@ Follow the extended instructions on the [Counter-strike 2 in-game settings](http
 
 ❗ **$\color{red}\textsf{ Requirement }$** : These settings only work for computers with NVIDIA videocards ❗ 
 
-Follow the extended instructions on the [Nvidia Settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/nvidia-settings.md) page
+Follow the extended instructions on the [Nvidia Settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/nvidia-settings.md) page.
 
 <p> $\color{blue}\textsf{NOTE}$ Currently not working on AMD settings, but if I get the chance this might be added. </p>
+
+<br>
+
+## Keybind Scancode Guide
+
+Since the arrival of CS2 it is no longer possible to use the old binds, as its replacement we now have to bind it through scancodes (e.g. bind scancodeXX "Command"). </p>
+This overview serves as a quick reference sheet that has the scancodes mapped out and is easy to access. </p>
+
+Check out the Keybind Scancode Guide on the [Keybind scancode guide](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/keybind-scancode-guide.md) page.
 
 <br>
 
