@@ -8,7 +8,7 @@
 
 <div id="logo" align="center">
 
-  ![Apex Legends](./assets/apexrevenant.png)
+  ![Apex Legends](./assets/CS2-icon.png)
 
 </div>
 
