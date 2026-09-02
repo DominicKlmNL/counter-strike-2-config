@@ -8,7 +8,7 @@
 
 <div id="Navigation" align="center">
 
-[README](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/README.md) | [Keybind Scancode Guide](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/KeybindScancodeGuide.md)  |  [In-game settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/ingame.md)  |  [Autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-configblob/main/autoexec.cfg)  |   [Changelog](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/docs/CHANGELOG.md) | [License](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/LICENSE)
+[README](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/README.md) | [Keybind Scancode Guide](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/KeybindScancodeGuide.md)  |  [In-game settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/ingame.md)  |  [Autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/autoexec.cfg)  |   [Changelog](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/docs/CHANGELOG.md) | [License](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/LICENSE)
 
 </div>
 
