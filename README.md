@@ -16,7 +16,7 @@
 
 <div id="navigation" align="center">
 
-[Introduction](#introduction)  |  [Context](#Context)  |  [Files](#Files)  |  [Installation](#Installation)  |  [Launch options](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/launchoptions.md)  |  [In-game settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/ingame.md)  |  [Autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/autoexec.cfg) |  [Nvidia settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/nvidia-settings.md) | [Keybind scancode guide](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/keybind-scancode-guide.md)  |  [Changelog](#CHANGELOG) |   [License](#License)
+[Introduction](#introduction)  |  [Context](#Context)  |  [Files](#Files)  |  [Installation](#Installation)  |  [Launch options](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/launchoptions.md)  |  [In-game settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/ingame.md)  |  [Autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/autoexec.cfg) |  [Nvidia settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/nvidia-settings.md) | [Keybind scancode guide](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/keybindscancodeguide.md)  |  [Changelog](#CHANGELOG) |   [License](#License)
 
 </div>
 
