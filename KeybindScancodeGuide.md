@@ -36,9 +36,15 @@ To help you be able to quickly figure out which codes you need and the method be
 
 ## Overview of scancodes
 
+***
+
+<details>
+
+<summary>Expand for the complete overview of existing scancodes and corresponding keys</summary>
+
 <div id="scancode-1-20" align="left">
 
-##### Scancodes 1-20
+#### Expand Scancodes 1-20
 
 <br>
 
@@ -47,12 +53,11 @@ To help you be able to quickly figure out which codes you need and the method be
 | <sup> unused </sup> | <sup> unused </sup> | <sup> unused </sup> | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q |
 
 </div>
-
 <br>
 
 <div id="scancode-21-40" align="left">
 
-##### Scancodes 21-40
+#### Expand Scancodes 21-40
 
 <br>
 
@@ -61,12 +66,11 @@ To help you be able to quickly figure out which codes you need and the method be
 | r | s | t | u | v | w | x | y | z | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | <sup> ENTER/RETURN </sup> |
 
 </div>
-
 <br>
 
 <div id="scancode-41-60" align="left">
 
-##### Scancodes 41-60
+#### Expand Scancodes 41-60
 
 <br>
 
@@ -75,12 +79,11 @@ To help you be able to quickly figure out which codes you need and the method be
 | <sup> ESCAPE </sup> | <sup> BACKSPACE </sup> | <sup> TAB </sup> | <sup> SPACE </sup> | - | <sup> Equals </sup> | <sup> [ </sup> | <sup> ] </sup> | <sup> \ </sup> | <sup> # </sup> | <sup> ; </sup> | <sup> ' </sup> | <sup> ` </sup> | , | . | <sup> / </sup> | <sup> CAPS LOCK </sup> | <sup> F1 </sup> | <sup> F2 </sup> | <sup> F3 </sup> |
 
 </div>
-
 <br>
 
 <div id="scancode-61-75" align="left">
 
-##### Scancodes 61-75
+#### Expand Scancodes 61-75
 
 <br>
 
@@ -89,12 +92,11 @@ To help you be able to quickly figure out which codes you need and the method be
 | <sup> F4 </sup> | <sup> F5 </sup> | <sup> F6 </sup> | <sup> F7 </sup> | <sup> F8 </sup> | <sup> F9 </sup> | <sup> F10 </sup> | <sup> F11 </sup> | <sup> F12 </sup> | <sup> Print Screen </sup> | <sup> Scrolllock </sup> | <sup> Pause </sup> | <sup> Insert </sup> | <sup> Home </sup> | <sup> Page Up </sup> |
 
 </div>
-
 <br>
 
 <div id="scancode-76-90" align="left">
 
-##### Scancodes 76-90
+#### Expand Scancodes 76-90
 
 <br>
 
@@ -103,24 +105,24 @@ To help you be able to quickly figure out which codes you need and the method be
 | <sup> Delete </sup> | <sup> End </sup> | <sup> Page Down </sup> | <sup> Right </sup> | <sup> Left </sup> | <sup> Down </sup> | <sup> Up </sup> | <sup> Numlock </sup> | <sup> KP / </sup> | <sup> KP * </sup> | <sup> KP - </sup> | <sup> KP + </sup> | <sup> KP ENTER </sup> | <sup> KP 1 </sup> | <sup> KP 2 </sup> |
 
 </div>
-
 <br>
 
 <div id="scancode-91-100" align="left">
 
-##### Scancodes 91-100 + Special
+#### Expand Scancodes 91-100 and Special Codes
 
 <br>
 
-| <sup> 91 </sup> | <sup> 92 </sup> | <sup> 93 </sup> | <sup> 94 </sup> | <sup> 95 </sup> | <sup> 96 </sup> | <sup> 97 </sup> | <sup> 98 </sup> | <sup> 99 </sup> | <sup> 100 </sup> | <sup>Special</sup> | <sup> 225 </sup> | 
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <sup> KP 3 </sup> | <sup> KP 4 </sup> | <sup> KP 5 </sup> | <sup> KP 6 </sup> | <sup> KP 7 </sup> | <sup> KP 8 </sup> | <sup> KP 9 </sup> | <sup> KP 0 </sup> | <sup> KP . </sup> |  | <sup> </sup> | <sup> LShift </sup> |
+| <sup> 91 </sup> | <sup> 92 </sup> | <sup> 93 </sup> | <sup> 94 </sup> | <sup> 95 </sup> | <sup> 96 </sup> | <sup> 97 </sup> | <sup> 98 </sup> | <sup> 99 </sup> | <sup> 100 </sup> | <sup>Special</sup> | <sup> 225 </sup> | <sup> MWHEELUP </sup> |  <sup> MWHEELDOWN </sup> | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <sup> KP 3 </sup> | <sup> KP 4 </sup> | <sup> KP 5 </sup> | <sup> KP 6 </sup> | <sup> KP 7 </sup> | <sup> KP 8 </sup> | <sup> KP 9 </sup> | <sup> KP 0 </sup> | <sup> KP . </sup> |  | <sup> Codes </sup> | <sup> LShift </sup> | <sup> MWHEELUP </sup> | <sup> MWHEELDOWN </sup> |
 
 </div>
-
 <br>
 
 </div>
+
+</details>
   
 <br>
 
@@ -128,15 +130,13 @@ To help you be able to quickly figure out which codes you need and the method be
 
 ## Formatting keybinds with scancodes
 
-<br>
-
 Now that we have the overview with all the scancodes, we should be able to create the keybinds. But before we dive into the scancodes, let's take a look at the old CS:GO keybinds and compare it to the new system. </p>
 
 <br>
 
-### CS:GO Binds
+## CS:GO Binds
 
-<br>
+### Example CS:GO 1
 
 To understand a bit more about what changed for binds compared to CS:GO, let's use this example and format it like it was done in CS:GO. </p>
 
@@ -146,16 +146,16 @@ To understand a bit more about what changed for binds compared to CS:GO, let's u
 
 <br>
 
+The final console command would be like this. </p>
+
 	bind e "+use"
 
 
-The total console command would be like the example above. </p>
-
 <br>
 
-### Counter-strike 2 Binds
+## Counter-strike 2 Binds
 
-### Example 1
+### Example CS2 1
 
 Now let's do this same, but this time with the format that is required for Counter-strike 2 </p>
 
@@ -165,17 +165,16 @@ Now let's do this same, but this time with the format that is required for Count
 
 <br>
 
-When you take a look at the overview of scancodes, you will notice that $\color{green}\textsf{scancode8}$ corresponds with the key $\color{green}\textsf{e}$ </p>
+When you take a look at the [overview of scancodes](#overview), you will notice that $\color{green}\textsf{scancode8}$ corresponds with the key $\color{green}\textsf{e}$ </p>
+The final console command would be like this. </p>
 
 
 	bind scancode8 "+use"
 
 
-The total console command would be like the example above. </p>
+<br>
 
-<br />
-
-### Example 2
+### Example CS2 2
 
 Another example, jump is default bound to the SPACE key. So if we want to translate that bind to Counter-strike 2, you need the following bind sequence. </p>
 
@@ -186,22 +185,17 @@ Another example, jump is default bound to the SPACE key. So if we want to transl
 <br>
 
 Again we can retrace the $\color{green}\textsf{scancode44}$ to the key $\color{green}\textsf{SPACE}$. </p>
-
+The final console command would be like this. </p>
 
 	bind scancode44 "+jump"
 
-
-The total console command would be like the example above. </p>
-
 </div>
-
 <br>
 
 <div id="conclusion" align="left">
 
 ## Conclusion
 
-<br>
 
 Although the scancodes sound a bit mysterious and are harder to remember, I hope having this quick reference guide will make it a lot easier to figure out new binds for Counter-strike 2. </p>
 And as a little gift after reaching the end of the guide, a little keybind from me for you. Oh and if you wonder what key the scancode64 is. You know where to find it in the overview above and I hope you enjoy the new chat spam bind.</p>
@@ -210,12 +204,9 @@ And as a little gift after reaching the end of the guide, a little keybind from 
 
 
 </div>
-
 <br>
 
 <div align="center">
-
-<br>
 
 [Back to Top](#Top)
 
