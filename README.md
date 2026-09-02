@@ -3,7 +3,6 @@
 # Counter-strike 2 Configuration Files
 
 </div>
-
 <br>
 
 <div id="logo" align="center">
@@ -11,7 +10,6 @@
   ![Apex Legends](./assets/CS2-icon.png)
 
 </div>
-
 <br>
 
 <div id="navigation" align="center">
@@ -19,18 +17,15 @@
 [Introduction](#introduction)  |  [Context](#Context)  |  [Files](#Files)  |  [Installation](#Installation)  |  [Launch options](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/launchoptions.md)  |  [In-game settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/ingame.md)  |  [Autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/autoexec.cfg) |  [Nvidia settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/nvidia-settings.md) | [Keybind scancode guide](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/KeybindScancodeGuide.md)  |  [Changelog](#CHANGELOG) |   [License](#License)
 
 </div>
-
 <br>
 
 <div id="introduction">
 
 ## Introduction
 
-<p>All settings in the configuration file, launch options and autoexec have been validated.</p>
-<p>In the instructions for launch options there is a table with the function and benefit of the command.</p>
-<p>For the autoexec.cfg the function can be found as comments behind the setting within the file. </p>
-<p></p>
-
+All settings in the configuration file, launch options and autoexec have been validated.</p>
+In the instructions for launch options there is a table with the function and benefit of the command.</p>
+For the autoexec.cfg the function can be found as comments behind the setting within the file. </p>
 <br>
 
 | Validation of configuration settings | Date |
@@ -45,12 +40,12 @@
 
 ## Context
 
-<p> This repo contains multiple files that can be used to improve the stability and performance for Counter-strike 2.</p>
+This repo contains multiple files that can be used to improve the stability and performance for Counter-strike 2, it has been created over a number of years by collecting and trying possibilities. For some, there might be no new settings and for others it might be exactly what they were missing.</p>
 
-This configuration has been created using my own rig, please keep in mind that you should make sure it is compatible with your pc. </p>
-❓ If you are unsure whether settings are fit for your machine and/or you are experiencing unexpected stability issues, feel free to discuss on this repository. ❓ </p>
-🔗 There is a [discussions](https://github.com/DominicKlmNL/counter-strike-2-config/discussions) section, if you post it there I will try to help where I can. 🔗 </p>
-</p>
+This configuration has been created using my own rig, please keep in mind that you should make sure it is compatible with your pc. 
+
+If you are unsure whether settings are fit for your machine and/or you are experiencing unexpected stability issues, feel free to discuss on this repository in the [discussions](https://github.com/DominicKlmNL/counter-strike-2-config/discussions) section. I will try to help as much as I can. </p>
+<br>
 
 | Component | Type | Note |
 | --- | :--- | :--- |
@@ -63,12 +58,12 @@ This configuration has been created using my own rig, please keep in mind that y
 | Headset | HyperX Cloud Alpha Wireless | |
 
 </div>
-
 <br>
 
 <div id="Files">
 
 ## Files
+<br>
 
 | File | Purpose |
 | --- | :--- |
@@ -79,9 +74,7 @@ This configuration has been created using my own rig, please keep in mind that y
 | [Keybind scancode guide](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/keybind-scancode-guide.md) | A quick overview guide that shows all the scancodes required for your CS2 keybinds |
 
 <br>
-
 </div>
-
 
 <div id="Installation">
 
@@ -101,28 +94,28 @@ Follow the extended instructions on the [Steam Counter-strike 2 Launch options](
 Follow the extended instructions on the [Counter-strike 2 in-game settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/ingame.md) page.
 
 </div>
-
 <br>
 
 ## Autoexec.cfg
+
+> [!IMPORTANT]
+>  Make sure there is no existing autoexec.cfg or make sure to backup the old file and rename it.
 
 1. Copy the [autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/autoexec.cfg) from the folder where you extracted the files
 2. Open Steam and go to your Library tab
 3. Right+click Counter-strike 2 and go to <b>Manage</b> in the dropdown and click <b>"Browse Local Files"</b>
 4. This will open your Counter-strike 2 installed folder, open the following folders -> <b>*game*</b> -> <b>*csgo*</b> -> <b>*cfg*</b>
 5. Paste the <b>autoexec.cfg</b> file in the <b>C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg</b> or if you installed it on another drive in the corresponding map <b>X:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg</b>
-<p> ❗ Make sure there is no existing autoexec.cfg or make sure to backup the old file and rename it ❗</p>
-
 <br>
 
 ## NVIDIA settings
 
-❗ **$\color{red}\textsf{ Requirement }$** : These settings only work for computers with NVIDIA videocards ❗ 
+> [!CAUTION]
+> These settings only work on computers with NVIDIA videocards and use the NVIDIA Control Panel to configure the videocard.
 
 Follow the extended instructions on the [Nvidia Settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/nvidia-settings.md) page.
 
 <p> $\color{blue}\textsf{NOTE}$ Currently not working on AMD settings, but if I get the chance this might be added. </p>
-
 <br>
 
 ## Keybind Scancode Guide
@@ -134,8 +127,6 @@ Check out the Keybind Scancode Guide on the [Keybind scancode guide](https://git
 
 <br>
 
-</div>
-
 <div id="CHANGELOG" align="left">
 
 ## CHANGELOG
@@ -144,7 +135,6 @@ For the version history and changelog, see [changelog](./docs/CHANGELOG.md) file
 Changes to README or LICENSE are not added each time, as they server as a guideline and instruction. </P>
 
 </div>
-
 <br>
 
 <div id="License" align="left">
@@ -154,11 +144,9 @@ Changes to README or LICENSE are not added each time, as they server as a guidel
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 </div>
-
 <br>
 
 <div align="center">
-
 <br>
 
 [Back to Top](#Top)
