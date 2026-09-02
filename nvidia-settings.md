@@ -12,7 +12,6 @@
  ![NVIDIA Control Panel](https://cdn.lo4d.com/t/icon/128/nvidia-display-control-panel.png) 
 
 </div>
-
 <br>
 
 <div id="Navigation" align="center">
@@ -20,7 +19,6 @@
 [README](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/README.md) | [Launch options](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/launchoptions.md)  |  [In-game settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/ingame.md)  | [Launch options](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/KeybindScancodeGuide.md) | [Autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/autoexec.cfg)  |   [Changelog](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/docs/CHANGELOG.md) | [License](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/LICENSE)
 
 </div>
-
 <br>
  
 <div id="Nvidia-settings">
@@ -34,7 +32,7 @@
 1.  Go to Windows menu 
 2.  Find "NVIDIA Control Panel" and open the program. (The icon looks like the picture at the top of the page) 
 3.  Once NVIDIA Control has started up, go to <b>Manage 3D settings</b> 
-4.  Select the tab <b>Program Settings</b> and find Counter-strike 2 (<i> csgo.exe </i>) from the dropdown and select it. 
+4.  Select the tab <b>Program Settings</b> and find Counter-strike 2 ( $\color{yellow}\textsf{cs2.exe}$ ) from the dropdown and select it. 
 5.  If you can not find Counter-strike 2 in the dropdown, click <b>add</b> to select Counter-strike 2 from recent programs. 
 6.  Find the settings in the scroll list that are written in $\color{green}\textsf{table A}$  below and make sure they are on the correct setting.
 7.  Once you have changed the settings in the <b>Program Settings</b> click on "Apply"
@@ -45,7 +43,6 @@
 </div>
 
 <div id="Settings">
-
 <br>
 
 ## Settings
