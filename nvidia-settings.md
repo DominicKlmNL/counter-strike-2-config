@@ -1,16 +1,11 @@
+> [!CAUTION]
+> These settings only work on computers with NVIDIA videocards and use the NVIDIA Control Panel to configure the videocard.
+
 <div id="header" align="center">
   
 # NVIDIA Settings for Counter-strike 2
 
-<div id="requirement" >
-
-> ❗
->  **$\color{red}\textsf{ Requirement: }$** 
-> These settings only work for computers with NVIDIA videocards
-
 <br>
-
-</div>
 
 ### NVIDIA CONTROL PANEL
 
@@ -81,13 +76,9 @@
 | :--- | --- | --- | :---: |
 | <b> Shader Cache Size </b> | Controls the maximum amount of disk space the driver may use for storing shader compiles | Apex Legends is heavily shader cache dependent, so to increase the limit available will reduce the load on the GPU | <b>Set to 10GB or higher to your preference </b> |
 
+</div>
+
 <br>
 
 > [!WARNING] 
-> text goes here
-
-> ⚠️ Warning ⚠️
 > The installation guide is step by step with full information about the settings, regardless i would like to emphasize that you have to be certain that you understand what you are changing within NVIDIA. Make sure to backup the old settings before changing the settings according to the installation guide.
-  
-</div>
-
