@@ -120,6 +120,9 @@ Follow the extended instructions on the [Nvidia Settings](https://github.com/Dom
 
 ## Keybind Scancode Guide
 
+> [!TIP]
+> Use this guide to easily set up Counter-strike 2 binds in line with the required Scancodes
+
 Since the arrival of CS2 it is no longer possible to use the old binds, as its replacement we now have to bind it through scancodes (e.g. bind scancodeXX "Command"). </p>
 This overview serves as a quick reference sheet that has the scancodes mapped out and is easy to access. </p>
 
