@@ -82,3 +82,12 @@
 
 > [!WARNING] 
 > The installation guide is step by step with full information about the settings, regardless i would like to emphasize that you have to be certain that you understand what you are changing within NVIDIA. Make sure to backup the old settings before changing the settings according to the installation guide.
+
+
+
+<div align="center">
+<br>
+
+[Back to top](#Top)
+
+</div>
