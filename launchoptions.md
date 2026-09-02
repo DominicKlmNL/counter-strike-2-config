@@ -66,3 +66,10 @@
 
 > [!NOTE]
 > If you want to start using the autoexec.cfg combined with these commands, make sure to follow the instructions from [README](https://github.com/DominicKlmNL/counter-strike-2-config/edit/main/README.md) on how to install the configuration.
+
+<div align="center">
+<br>
+
+[Back to top](#Top)
+
+</div>
