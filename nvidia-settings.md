@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-# NVIDIA Settings for Apex Legends
+# NVIDIA Settings for Counter-strike 2
 
 <br>
 
@@ -20,7 +20,6 @@
 
 </div>
 
-
 <br>
  
 <div id="Nvidia-settings">
@@ -34,13 +33,13 @@
 1. <p> Go to Windows menu </p>
 2. <p> Find "NVIDIA Control Panel" and open the program. (The icon looks like the picture at the top of the page) </p>
 3. <p> Once NVIDIA Control has started up, go to <b>Manage 3D settings</b> </p>
-4. <p> Select the tab <b>Program Settings</b> and find Apex Legends (<i> r5apex_dx12.exe </i>) from the dropdown and select it. </p>
-5. <p> If you can not find Apex Legends in the dropdown, click <b>add</b> to select Apex from recent programs. </p>
+4. <p> Select the tab <b>Program Settings</b> and find Counter-strike 2 (<i> csgo.exe </i>) from the dropdown and select it. </p>
+5. <p> If you can not find Counter-strike 2 in the dropdown, click <b>add</b> to select Counter-strike 2 from recent programs. </p>
 6. <p> Find the settings in the scroll list that are written in $\color{green}\textsf{table A}$  below and make sure they are on the correct setting.</p>
 7. <p> Once you have changed the settings in the <b>Program Settings</b> click on "Apply"</p>
 8. <p> Now select the tab <b>Global Settings</b> and change the setting as written in the $\color{red}\textsf{table B}$ .</p>
 9. <p> Once you have changed the settings in the  <b>Global Settings</b> click on "Apply"</p>
-10. <p> You have now succesfully changed the required NVIDIA settings in the control panel. You can close the control panel and hop on Apex, have fun Legend.</p>
+10. <p> You have now succesfully changed the required NVIDIA settings in the control panel. You can close the control panel and hop on CS2, have fun.</p>
 
 </div>
 
