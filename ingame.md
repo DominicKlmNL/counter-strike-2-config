@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-# Apex Legends In-game settings
+# Counter-strike 2 In-game settings
 
 </div>
 
@@ -8,21 +8,18 @@
 
 <div id="Navigation" align="center">
 
-[README](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/README.md) | [Launch options](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/launchoptions.md)  |  [Keybind Scancode Guide](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/KeybindScancodeGuide.md)  |  [Autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-configblob/main/autoexec.cfg)  |   [Changelog](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/docs/CHANGELOG.md) | [License](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/LICENSE)
+[README](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/README.md) | [Launch options](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/launchoptions.md)  |  [Keybind Scancode Guide](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/KeybindScancodeGuide.md)  |  [Autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/autoexec.cfg)  |   [Changelog](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/docs/CHANGELOG.md) | [License](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/LICENSE)
 
 </div>
-
-
 <br>
 
 <div id="Video Settings">
 
 ## Video Settings
 
-<p>For the best compatible optimization for the combination of these files, we have to make sure the (video) settings for Apex Legends in-game are also properly configured.</p>
+For the best compatible optimization for the combination of these files, we have to make sure the (video) settings for Counter-strike 2 in-game are also properly configured.</p>
 
 </div>
-
 <br>
 
 <div id="Installation" align="left">
@@ -34,8 +31,8 @@
 | $\color{green}\textsf{approx. 10 min}$  |
 
 <p> 1. Open Steam and go to your <b>Library</b> tab </p>
-<p> 2. Right+click <b>Apex Legends</b> </p>
-<p> 3. Launch <b>Apex Legends</b> </p>
+<p> 2. Right+click <b>Counter-strike 2</b> </p>
+<p> 3. Launch <b>Counter-strike 2</b> </p>
 <p> 4. Go to <b>Settings</b> </p>
 <p> 5. Switch to the tab <b>Video</b> </p>
 <p> 6. Configure the <b>Settings</b> as listed in Table A </p>
@@ -43,15 +40,14 @@
 <p> 8. Switch to the tab <b>Advanced Video</b> </p>
 <p> 9. Configure the <b>Settings</b> as listed in Table B </p>
 <p> 10. Click Apply once you completed all the settings in <b>Advanced Video</b> as listed in $\color{blue}\textsf{Table B}$ </p>
-<p> 11. Restart Apex Legends, to ensure that all the settings are loaded entirely and verify if everything is working</p>
+<p> 11. Restart Counter-strike 2, to ensure that all the settings are loaded entirely and verify if everything is working</p>
 <p> 12. Start off in the firing range and see if the settings are feeling better. If you run into any issues, you can always send a note here.</p>
 
 <br>
 
-$\color{red}\textsf{NOTE}$ : If you want to start using the autoexec.cfg combined with these settings, make sure to follow the instructions from [README](https://github.com/DominicKlmNL/apex-legends-config/edit/main/README.md) on how to install the configuration. If you also want to set the [Videoconfig.txt](https://github.com/DominicKlmNL/apex-legends-config/edit/main/videoconfig.txt), follow the instructions on the page.
+$\color{red}\textsf{NOTE}$ : If you want to start using the autoexec.cfg combined with these settings, make sure to follow the instructions from [README](https://github.com/DominicKlmNL/counter-strike-2-config/edit/main/README.md) on how to install the configuration. If you also want to set the [Videoconfig.txt](https://github.com/DominicKlmNL/counter-strike-2-config/edit/main/videoconfig.txt), follow the instructions on the page.
 
 </div>
-
 <br>
 
 <div id="Overview">
@@ -100,12 +96,9 @@ $\color{red}\textsf{NOTE}$ : If you want to start using the autoexec.cfg combine
 
 
 </div>
-
-
 <br>
 
 <div align="center">
-
 <br>
 
 [Back to Top](#Top)
