@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-## Apex Legends Launch Options
+# Apex Legends Launch Options
 
 </div>
 
