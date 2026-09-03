@@ -3,13 +3,12 @@
 # Counter-strike 2 In-game settings
 
 </div>
-
 <br>
 
 <div id="navigation" align="center">
 
-| - [Introduction](#introduction) - | - [Context](#Context) - | - [Files](#Files) - | - [Installation](#Installation) - | - [Launch options](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/launchoptions.md) - | - [In-game settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/ingame.md) - |  
-| - [Autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/autoexec.cfg) - | - [Nvidia settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/nvidia-settings.md) - | - [Keybind scancode guide](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/KeybindScancodeGuide.md) - | - [Changelog](#CHANGELOG) - | - [License](#License) - |
+| - [Video settings](#videosettings) - | - [Installation](#Installation) - | - [Launch options](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/launchoptions.md) - | - [In-game settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/ingame.md) - |  
+| - [Autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/autoexec.cfg) - | - [Nvidia settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/nvidia-settings.md) - | - [Keybind scancode guide](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/KeybindScancodeGuide.md) - | - [Changelog]([#CHANGELOG](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/docs/CHANGELOG.md)) - | - [License](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/LICENSE) - |
 
 </div>
 <br>
@@ -25,37 +24,36 @@ For the best compatible optimization for the combination of these files, we have
 
 <div id="Installation" align="left">
 
-## Installation 🕐
+## How to set things up
 
-| Expected duration: |
-| :--- | 
-| $\color{green}\textsf{approx. 10 min}$  |
-
-<p> 1. Open Steam and go to your <b>Library</b> tab </p>
-<p> 2. Right+click <b>Counter-strike 2</b> </p>
-<p> 3. Launch <b>Counter-strike 2</b> </p>
-<p> 4. Go to <b>Settings</b> </p>
-<p> 5. Switch to the tab <b>Video</b> </p>
-<p> 6. Configure the <b>Settings</b> as listed in Table A </p>
-<p> 7. Click Apply once you completed all the settings in <b>Video</b> as listed in $\color{green}\textsf{Table A}$ </p>
-<p> 8. Switch to the tab <b>Advanced Video</b> </p>
-<p> 9. Configure the <b>Settings</b> as listed in Table B </p>
-<p> 10. Click Apply once you completed all the settings in <b>Advanced Video</b> as listed in $\color{blue}\textsf{Table B}$ </p>
-<p> 11. Restart Counter-strike 2, to ensure that all the settings are loaded entirely and verify if everything is working</p>
-<p> 12. Start off in the firing range and see if the settings are feeling better. If you run into any issues, you can always send a note here.</p>
+##### Expected duration: $\color{green}\textsf{approx. 10 min}$ 
 
 <br>
 
-$\color{red}\textsf{NOTE}$ : If you want to start using the autoexec.cfg combined with these settings, make sure to follow the instructions from [README](https://github.com/DominicKlmNL/counter-strike-2-config/edit/main/README.md) on how to install the configuration. If you also want to set the [Videoconfig.txt](https://github.com/DominicKlmNL/counter-strike-2-config/edit/main/videoconfig.txt), follow the instructions on the page.
+1. Open Steam and go to your <b>Library</b> tab
+2. Right+click <b>Counter-strike 2</b>
+3. Launch <b>Counter-strike 2</b>
+4. Go to <b>Settings</b>
+5. Switch to the tab <b>Video</b>
+6. Configure the <b>Settings</b> as listed in Table A
+7. Click Apply once you completed all the settings in <b>Video</b> as listed in $\color{green}\textsf{Table A}$ 
+8. Switch to the tab <b>Advanced Video</b> 
+9. Configure the <b>Settings</b> as listed in Table B 
+10. Click Apply once you completed all the settings in <b>Advanced Video</b> as listed in $\color{blue}\textsf{Table B}$ 
+11. Restart Counter-strike 2, to ensure that all the settings are loaded entirely and verify if everything is working
+12. Start off in the firing range and see if the settings are feeling better. If you run into any issues, you can always send a note here.
 
 </div>
 <br>
 
-<div id="Overview">
+> [!TIP]
+> If you want to start using the autoexec.cfg combined with these settings, make sure to follow the instructions from [README](https://github.com/DominicKlmNL/counter-strike-2-config/edit/main/README.md) on how to install the configuration.  
+> If you also want to set the [Videoconfig.txt](https://github.com/DominicKlmNL/counter-strike-2-config/edit/main/videoconfig.txt), follow the instructions on the page.
 
+<div id="Overview">
+  
 ## Overview of the settings categorized
 
-<br>
 
 #### Table A. Display Settings
 
