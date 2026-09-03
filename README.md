@@ -29,6 +29,8 @@ In the instructions for launch options there is a table with the function and be
 For the autoexec.cfg the function can be found as comments behind the setting within the file. </p>
 <br>
 
+</div>
+
 <div id="qualitycontrol" align="justified">
 
 # Quality Control on configurations
