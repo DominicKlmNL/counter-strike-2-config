@@ -18,8 +18,8 @@ Last updated: $\color{green}\textsf{2026-09-03}$
 
 <div id="navigation" align="center">
 
-| - [README](https://github.com/DominicKlmNL/apex-legends-config/blob/main/README.md) - | - [Launch options: Steam](https://github.com/DominicKlmNL/apex-legends-config/blob/main/launchoptions-steam.md) - | - [Launch options: EA App](https://github.com/DominicKlmNL/apex-legends-config/blob/main/launchoptions-ea-app.md) - | - [In-game settings](https://github.com/DominicKlmNL/apex-legends-config/blob/main/ingame.md) - |  
-| - [Autoexec.cfg](https://github.com/DominicKlmNL/apex-legends-config/blob/main/autoexec.cfg) - | - [Videoconfig.txt](https://github.com/DominicKlmNL/apex-legends-config/blob/main/videoconfig.txt) - | - [Nvidia settings](https://github.com/DominicKlmNL/apex-legends-config/blob/main/nvidia-settings.md) - | - [Changelog](https://github.com/DominicKlmNL/apex-legends-config/blob/main/docs/CHANGELOG.md) - | - [License](https://github.com/DominicKlmNL/apex-legends-config/blob/main/LICENSE) - |
+| - [Introduction](#introduction) - | - [Context](#Context) - | - [Files](#Files) - | - [Installation](#Installation) - | - [Launch options](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/launchoptions.md) - | - [In-game settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/ingame.md) - |  
+| - [Autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/autoexec.cfg) - | - [Nvidia settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/nvidia-settings.md) - | - [Keybind scancode guide](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/KeybindScancodeGuide.md) - | - [Changelog](#CHANGELOG) - | - [License](#License) - |
 
 </div>
 <br>
