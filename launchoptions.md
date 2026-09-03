@@ -3,16 +3,14 @@
 # Counter-strike 2 Launch Options
 
 </div>
-
 <br>
 
 <div id="navigation" align="center">
 
-| - [Introduction](#introduction) - | - [Context](#Context) - | - [Files](#Files) - | - [Installation](#Installation) - | - [Launch options](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/launchoptions.md) - | - [In-game settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/ingame.md) - |  
-| - [Autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/autoexec.cfg) - | - [Nvidia settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/nvidia-settings.md) - | - [Keybind scancode guide](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/KeybindScancodeGuide.md) - | - [Changelog](#CHANGELOG) - | - [License](#License) - |
+| - [Commands](#commands) - | - [Launch options](#Launchoptions) - | - [Install](#Install) - | - [Launch options](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/launchoptions.md) - | - [In-game settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/ingame.md) - |  
+| - [Autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/autoexec.cfg) - | - [Nvidia settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/nvidia-settings.md) - | - [Keybind scancode guide](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/KeybindScancodeGuide.md) - | - [Changelog](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/docs/CHANGELOG.md) - | - [License](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/LICENSE) - |
 
 </div>
-
 <br>
 
 <div id="Commands">
@@ -21,16 +19,22 @@
 
 <p>Before you install the launch options below, it is important that you understand what the commands do and what they mean. All launch options are in the table down below including their function</p>
 
+</div>
 <br>
 
+> [!NOTE]
+> With the introduction of Counter-strike 2, the game automatically executes the autoexec file if it exists in the CFG folder. Making it <b>unnecessary to add it to the launch options</b>, since the game will execute it regardless.
+
+<div>
+<br>
+  
 | Command | Function | Benefit |
 | --- | --- | --- |
 | -freq | Forces the game engine to output a video signal at a specific refresh rate. E.g. if you have a monitor with a refresh rate of 180hz, you set the command as ***-freq 180*** | Eliminates screen tearing and ensures the smoothest possible gameplay, provided your monitor supports the refresh rate you set in the command. |
 | -fullscreen | Tells your operating system to give the game exclusive control of the display mode, bypassing the desktop window manager. | Minimizes input lag for quicker mouse response and allocates maximum system resources to the game for a potential FPS boost. |
 | -console | Automatically opens the developer console as soon as the game launches, allowing you to immediately type commands. | Saves you from having to press a hotkey to open it, allowing you to instantly type configuration commands or check server statuses. It also gives you feedback if you use the autoexec, that it has succesfully been executed. |
-  
-</div>
 
+</div>
 <br>
 
 <div id="Launchoptions" align="left">
@@ -59,11 +63,10 @@
 
 
 7. Once you pasted the commands in the field, you can close the window and start up Counter-strike 2. The commands will now take immediate effect. 
-8. $\color{Green}\textsf{INFO:}$ With the introduction of Counter-strike 2, the game automatically executes the autoexec file if it exists in the CFG folder. Making it unnecessary to add it to the launch options, since the game with execute is regardless.
-
-<br>
+8. $\color{Green}\textsf{INFO:}$ With the introduction of Counter-strike 2, the game automatically executes the autoexec file if it exists in the CFG folder. Making it unnecessary to add it to the launch options, since the game will execute it regardless.
 
 </div>
+<br>
 
 > [!NOTE]
 > If you want to start using the autoexec.cfg combined with these commands, make sure to follow the instructions from [README](https://github.com/DominicKlmNL/counter-strike-2-config/edit/main/README.md) on how to install the configuration.
