@@ -45,7 +45,7 @@ For the autoexec.cfg the function can be found as comments behind the setting wi
 
 <div id="Context">
 
-## Context
+# Context
 
 This repo contains multiple files that can be used to improve the stability and performance for Counter-strike 2, it has been created over a number of years by collecting and trying possibilities. For some, there might be no new settings and for others it might be exactly what they were missing.</p>
 
@@ -69,7 +69,7 @@ If you are unsure whether settings are fit for your machine and/or you are exper
 
 <div id="Files">
 
-## Files
+# Files
 <br>
 
 | File | Purpose |
@@ -85,28 +85,29 @@ If you are unsure whether settings are fit for your machine and/or you are exper
 
 <div id="Installation">
 
-## Installation
+# Installation
 Download the files from [here](https://github.com/DominicKlmNL/counter-strike-2-config/archive/refs/heads/main.zip), extract the files from the ZIP onto your machine. Each file requires a different location, so per file an instruction is available.
 
 <br>
 
-## Launch options
+# Launch options
 
 Follow the extended instructions on the [Steam Counter-strike 2 Launch options](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/launchoptions.md) page.
 
 <br>
 
-## Counter-strike 2 In-game settings
+# Counter-strike 2 In-game settings
 
 Follow the extended instructions on the [Counter-strike 2 in-game settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/ingame.md) page.
 
 </div>
 <br>
 
-## Autoexec.cfg
+# Autoexec.cfg
 
-> [!IMPORTANT]
->  Make sure there is no existing autoexec.cfg or make sure to backup the old file and rename it.
+> [!WARNING]
+> Make sure there is no existing autoexec.cfg or make sure to backup the old file and rename it.
+> The autoexec contains a number of keybinds, make sure to customize or disable them 
 
 1. Copy the [autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/autoexec.cfg) from the folder where you extracted the files
 2. Open Steam and go to your Library tab
@@ -115,7 +116,7 @@ Follow the extended instructions on the [Counter-strike 2 in-game settings](http
 5. Paste the <b>autoexec.cfg</b> file in the <b>C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg</b> or if you installed it on another drive in the corresponding map <b>X:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg</b>
 <br>
 
-## NVIDIA settings
+# NVIDIA settings
 
 > [!CAUTION]
 > These settings only work on computers with NVIDIA videocards and use the NVIDIA Control Panel to configure the videocard.
@@ -125,7 +126,7 @@ Follow the extended instructions on the [Nvidia Settings](https://github.com/Dom
 <p> $\color{blue}\textsf{NOTE}$ Currently not working on AMD settings, but if I get the chance this might be added. </p>
 <br>
 
-## Keybind Scancode Guide
+# Keybind Scancode Guide
 
 > [!TIP]
 > Use this guide to easily set up Counter-strike 2 binds in line with the required Scancodes
@@ -139,7 +140,7 @@ Check out the Keybind Scancode Guide on the [Keybind scancode guide](https://git
 
 <div id="CHANGELOG" align="left">
 
-## CHANGELOG
+# CHANGELOG
 
 For the version history and changelog, see [changelog](./docs/CHANGELOG.md) file for details. </p>
 Changes to README or LICENSE are not added each time, as they server as a guideline and instruction. </P>
@@ -149,7 +150,7 @@ Changes to README or LICENSE are not added each time, as they server as a guidel
 
 <div id="License" align="left">
 
-## License
+# License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
