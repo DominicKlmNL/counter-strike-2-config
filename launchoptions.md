@@ -63,7 +63,6 @@
 
 
 7. Once you pasted the commands in the field, you can close the window and start up Counter-strike 2. The commands will now take immediate effect. 
-8. $\color{Green}\textsf{INFO:}$ With the introduction of Counter-strike 2, the game automatically executes the autoexec file if it exists in the CFG folder. Making it unnecessary to add it to the launch options, since the game will execute it regardless.
 
 </div>
 <br>
