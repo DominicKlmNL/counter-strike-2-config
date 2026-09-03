@@ -45,7 +45,7 @@ To help you be able to quickly figure out which codes you need and the method be
 
 <div id="scancode-1-20" align="left">
 
-#### Expand Scancodes 1-20
+#### Scancodes 1-20
 
 <br>
 
@@ -58,7 +58,7 @@ To help you be able to quickly figure out which codes you need and the method be
 
 <div id="scancode-21-40" align="left">
 
-#### Expand Scancodes 21-40
+#### Scancodes 21-40
 
 <br>
 
@@ -71,7 +71,7 @@ To help you be able to quickly figure out which codes you need and the method be
 
 <div id="scancode-41-60" align="left">
 
-#### Expand Scancodes 41-60
+#### Scancodes 41-60
 
 <br>
 
@@ -97,7 +97,7 @@ To help you be able to quickly figure out which codes you need and the method be
 
 <div id="scancode-76-90" align="left">
 
-#### Expand Scancodes 76-90
+#### Scancodes 76-90
 
 <br>
 
@@ -110,7 +110,7 @@ To help you be able to quickly figure out which codes you need and the method be
 
 <div id="scancode-91-100" align="left">
 
-#### Expand Scancodes 91-100 and Special Codes
+#### Scancodes 91-100 and Special Codes
 
 <br>
 
