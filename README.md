@@ -14,7 +14,8 @@
 
 <div id="navigation" align="center">
 
-[Introduction](#introduction)  |  [Context](#Context)  |  [Files](#Files)  |  [Installation](#Installation)  |  [Launch options](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/launchoptions.md)  |  [In-game settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/ingame.md)  |  [Autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/autoexec.cfg) |  [Nvidia settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/nvidia-settings.md) | [Keybind scancode guide](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/KeybindScancodeGuide.md)  |  [Changelog](#CHANGELOG) |   [License](#License)
+| - [Introduction](#introduction) - | - [Context](#Context) - | - [Files](#Files) - | - [Installation](#Installation) - | - [Launch options](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/launchoptions.md) - | - [In-game settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/ingame.md) - |  
+| - [Autoexec.cfg](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/autoexec.cfg) - | - [Nvidia settings](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/nvidia-settings.md) - | - [Keybind scancode guide](https://github.com/DominicKlmNL/counter-strike-2-config/blob/main/KeybindScancodeGuide.md) - | - [Changelog](#CHANGELOG) - | - [License](#License) - |
 
 </div>
 <br>
@@ -28,10 +29,14 @@ In the instructions for launch options there is a table with the function and be
 For the autoexec.cfg the function can be found as comments behind the setting within the file. </p>
 <br>
 
-| Validation of configuration settings | Date |
-| :--- | :---: |
-| Date latest validation of the configuration commands are working and active functions:  | 📅 <sup> $\color{green}\textsf{2026-09-01}$ </sup>  |
-| $\color{blue}\textsf{NOTE}$ Changes in commands, functions or functions by Valve could remove/disable certain configurations. I will periodically verify whether the settings are still workinng | <sup> Periodically </sup> |
+<div id="qualitycontrol" align="justified">
+
+# Quality Control on configurations
+
+<b> Latest validation:</b> 2026-09-03 ✅  
+<b> Frequency of validation:</b> Periodically  
+<b> Results latest validation:</b> 0 commands changed  
+<b> Registered:</b> 0 commands have been added ✅
 
 </div>
 <br>
