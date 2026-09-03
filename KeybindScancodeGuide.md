@@ -45,74 +45,45 @@ To help you be able to quickly figure out which codes you need and the method be
 
 <div id="scancode-1-20" align="left">
 
-#### Scancodes 1-20
-
-<br>
-
 | <sup> 1 </sup> | <sup> 2 </sup> | <sup> 3 </sup> | <sup> 4 </sup> | <sup> 5 </sup> | <sup> 6 </sup> | <sup> 7 </sup> | <sup> 8 </sup> | <sup> 9 </sup> | <sup> 10 </sup> | <sup> 11 </sup> | <sup> 12 </sup> | <sup> 13 </sup> | <sup> 14 </sup> | <sup> 15 </sup> | <sup> 16 </sup> | <sup> 17 </sup> | <sup> 18 </sup> | <sup> 19 </sup> | <sup> 20 </sup> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <sup> unused </sup> | <sup> unused </sup> | <sup> unused </sup> | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q |
 
 </div>
-<br>
 
 <div id="scancode-21-40" align="left">
-
-#### Scancodes 21-40
-
-<br>
 
 | <sup> 21 </sup> | <sup> 22 </sup> | <sup> 23 </sup> | <sup> 24 </sup> | <sup> 25 </sup> | <sup> 26 </sup> | <sup> 27 </sup> | <sup> 28 </sup> | <sup> 29 </sup> | <sup> 30 </sup> | <sup> 31 </sup> | <sup> 32 </sup> | <sup> 33 </sup> | <sup> 34 </sup> | <sup> 35 </sup> | <sup> 36 </sup> | <sup> 37 </sup> | <sup> 38 </sup> | <sup> 39 </sup> | <sup> 40 </sup> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | r | s | t | u | v | w | x | y | z | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | <sup> ENTER/RETURN </sup> |
 
 </div>
-<br>
 
 <div id="scancode-41-60" align="left">
-
-#### Scancodes 41-60
-
-<br>
 
 | <sup> 41 </sup> | <sup> 42 </sup> | <sup> 43 </sup> | <sup> 44 </sup> | <sup> 45 </sup> | <sup> 46 </sup> | <sup> 47 </sup> | <sup> 48 </sup> | <sup> 49 </sup> | <sup> 50 </sup> | <sup> 51 </sup> | <sup> 52 </sup> | <sup> 53 </sup> | <sup> 54 </sup> | <sup> 55 </sup> | <sup> 56 </sup> | <sup> 57 </sup> | <sup> 58 </sup> | <sup> 59 </sup> | <sup> 60 </sup> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <sup> ESCAPE </sup> | <sup> BACKSPACE </sup> | <sup> TAB </sup> | <sup> SPACE </sup> | - | <sup> Equals </sup> | <sup> [ </sup> | <sup> ] </sup> | <sup> \ </sup> | <sup> # </sup> | <sup> ; </sup> | <sup> ' </sup> | <sup> ` </sup> | , | . | <sup> / </sup> | <sup> CAPS LOCK </sup> | <sup> F1 </sup> | <sup> F2 </sup> | <sup> F3 </sup> |
 
 </div>
-<br>
 
 <div id="scancode-61-75" align="left">
-
-#### Expand Scancodes 61-75
-
-<br>
 
 | <sup> 61 </sup> | <sup> 62 </sup> | <sup> 63 </sup> | <sup> 64 </sup> | <sup> 65 </sup> | <sup> 66 </sup> | <sup> 67 </sup> | <sup> 68 </sup> | <sup> 69 </sup> | <sup> 70 </sup> | <sup> 71 </sup> | <sup> 72 </sup> | <sup> 73 </sup> | <sup> 74 </sup> | <sup> 75 </sup> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 | <sup> F4 </sup> | <sup> F5 </sup> | <sup> F6 </sup> | <sup> F7 </sup> | <sup> F8 </sup> | <sup> F9 </sup> | <sup> F10 </sup> | <sup> F11 </sup> | <sup> F12 </sup> | <sup> Print Screen </sup> | <sup> Scrolllock </sup> | <sup> Pause </sup> | <sup> Insert </sup> | <sup> Home </sup> | <sup> Page Up </sup> |
 
 </div>
-<br>
 
 <div id="scancode-76-90" align="left">
-
-#### Scancodes 76-90
-
-<br>
 
 | <sup> 76 </sup> | <sup> 77 </sup> | <sup> 78 </sup> | <sup> 79 </sup> | <sup> 80 </sup> | <sup> 81 </sup> | <sup> 82 </sup> | <sup> 83 </sup> | <sup> 84 </sup> | <sup> 85 </sup> | <sup> 86 </sup> | <sup> 87 </sup> | <sup> 88 </sup> | <sup> 89 </sup> | <sup> 90 </sup> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <sup> Delete </sup> | <sup> End </sup> | <sup> Page Down </sup> | <sup> Right </sup> | <sup> Left </sup> | <sup> Down </sup> | <sup> Up </sup> | <sup> Numlock </sup> | <sup> KP / </sup> | <sup> KP * </sup> | <sup> KP - </sup> | <sup> KP + </sup> | <sup> KP ENTER </sup> | <sup> KP 1 </sup> | <sup> KP 2 </sup> |
 
 </div>
-<br>
 
 <div id="scancode-91-100" align="left">
-
-#### Scancodes 91-100 and Special Codes
-
-<br>
 
 | <sup> 91 </sup> | <sup> 92 </sup> | <sup> 93 </sup> | <sup> 94 </sup> | <sup> 95 </sup> | <sup> 96 </sup> | <sup> 97 </sup> | <sup> 98 </sup> | <sup> 99 </sup> | <sup> 100 </sup> | <sup>Special</sup> | <sup> 225 </sup> | <sup> MWHEELUP </sup> |  <sup> MWHEELDOWN </sup> | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
